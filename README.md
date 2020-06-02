@@ -4,7 +4,8 @@ iCarousel is a class designed to simplify the implementation of various types of
 
 iCarousel-cylinder
 
-![iCarousel-cylinder](https://user-images.githubusercontent.com/24234259/83469447-b5ef0900-a44d-11ea-9ab1-5194e4f24499.gif)
+![iCarousel-cylinder2](https://user-images.githubusercontent.com/24234259/83470065-44b05580-a44f-11ea-9c2d-52483a1d93a6.gif)
+
 
 iCarousel-rotary
 
